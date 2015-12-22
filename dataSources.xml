@@ -1,0 +1,10 @@
+<application>
+  <component name="dataSourceStorage" format="xml">
+    <data-source source="LOCAL" name="Oracle - @somdev.med.upenn.edu" uuid="a5b31a6b-64be-4fcf-aaa5-a35f9afe4150">
+      <driver-ref>oracle</driver-ref>
+      <auto-commit>false</auto-commit>
+      <jdbc-driver>oracle.jdbc.driver.OracleDriver</jdbc-driver>
+      <jdbc-url>jdbc:oracle:thin:@//somdev.med.upenn.edu:1521/somdev</jdbc-url>
+    </data-source>
+  </component>
+</application>

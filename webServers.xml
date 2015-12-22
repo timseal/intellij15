@@ -1,0 +1,13 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="669d3df9-f78c-46cd-8a61-fc7c4cafd463" name="webdev2" url="http://localhost">
+        <fileTransfer host="webdev2.med.upenn.edu" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/timand" accessType="SFTP" username="timand" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
