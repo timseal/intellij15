@@ -1,7 +1,8 @@
 <scheme name="Base16-Atelier Lakeside-Light" version="142" parent_scheme="Default">
   <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="12" />
-  <option name="CONSOLE_FONT_NAME" value="Menlo" />
+  <option name="CONSOLE_FONT_NAME" value="PragmataPro" />
+  <option name="CONSOLE_FONT_SIZE" value="10" />
   <option name="EDITOR_FONT_NAME" value="PragmataPro" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="568c3b" />
@@ -457,7 +458,7 @@
     </option>
     <option name="INFO_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="cccccc" />
+        <option name="EFFECT_COLOR" value="cc8282" />
         <option name="ERROR_STRIPE_COLOR" value="ffffcc" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
@@ -512,7 +513,7 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="161b1d" />
+        <option name="BACKGROUND" value="e400" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" value="ff00" />
       </value>
@@ -681,8 +682,9 @@
     <option name="WARNING_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="b72dd2" />
+        <option name="EFFECT_COLOR" value="d21e35" />
         <option name="ERROR_STRIPE_COLOR" value="ebc700" />
-        <option name="EFFECT_TYPE" value="1" />
+        <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
