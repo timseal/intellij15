@@ -10,10 +10,10 @@
       <mapping pattern="bbx" type="textmate" />
       <mapping pattern="cbx" type="textmate" />
       <mapping ext="bbx" type="textmate" />
+      <mapping ext="cbx" type="textmate" />
       <mapping ext="sty" type="textmate" />
       <mapping ext="bib" type="textmate" />
       <mapping ext="tex" type="textmate" />
-      <mapping ext="cbx" type="textmate" />
       <mapping ext="cls" type="textmate" />
     </extensionMap>
   </component>
