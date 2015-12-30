@@ -458,7 +458,6 @@
     </option>
     <option name="INFO_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="cc8282" />
         <option name="ERROR_STRIPE_COLOR" value="ffffcc" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
@@ -680,8 +679,6 @@
     </option>
     <option name="WARNING_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="b72dd2" />
-        <option name="EFFECT_COLOR" value="d21e35" />
         <option name="ERROR_STRIPE_COLOR" value="ebc700" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
