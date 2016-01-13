@@ -458,7 +458,6 @@
     </option>
     <option name="INFO_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="cc8282" />
         <option name="ERROR_STRIPE_COLOR" value="ffffcc" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
@@ -483,7 +482,6 @@
     <option name="JS.GLOBAL_VARIABLE" baseAttributes="DEFAULT_GLOBAL_VARIABLE" />
     <option name="JS.INSTANCE_MEMBER_FUNCTION" baseAttributes="DEFAULT_INSTANCE_METHOD" />
     <option name="JS.LOCAL_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
-    <option name="JS.PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
     <option name="JS.REGEXP" baseAttributes="DEFAULT_STRING" />
     <option name="LOCAL_VARIABLE_ATTRIBUTES">
       <value>
@@ -679,8 +677,6 @@
     </option>
     <option name="WARNING_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="b72dd2" />
-        <option name="EFFECT_COLOR" value="d21e35" />
         <option name="ERROR_STRIPE_COLOR" value="ebc700" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
