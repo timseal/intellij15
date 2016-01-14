@@ -1,4 +1,16 @@
 <keymap version="1" name="Emacs copy" parent="Emacs">
+  <action id="Diff.FocusOppositePane" />
+  <action id="Diff.FocusOppositePaneAndScroll" />
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="alt right" />
+    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="n" />
+    <keyboard-shortcut first-keystroke="ctrl tab" />
+  </action>
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="alt left" />
+    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="p" />
+    <keyboard-shortcut first-keystroke="shift ctrl tab" />
+  </action>
   <action id="SearchEverywhere">
     <keyboard-shortcut first-keystroke="shift meta p" />
   </action>
