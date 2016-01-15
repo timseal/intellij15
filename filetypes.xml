@@ -4,17 +4,17 @@
       <mapping ext="sqlite3" type="Native" />
       <mapping ext="phl" type="PHP" />
       <mapping ext="plantuml" type="PlantUML file" />
-      <mapping pattern="bbx" type="textmate" />
-      <mapping pattern="sty" type="textmate" />
-      <mapping pattern="cbx" type="textmate" />
       <mapping pattern="bib" type="textmate" />
       <mapping pattern="tex" type="textmate" />
       <mapping pattern="cls" type="textmate" />
+      <mapping pattern="sty" type="textmate" />
+      <mapping pattern="bbx" type="textmate" />
+      <mapping pattern="cbx" type="textmate" />
       <mapping ext="bbx" type="textmate" />
       <mapping ext="sty" type="textmate" />
       <mapping ext="bib" type="textmate" />
-      <mapping ext="cbx" type="textmate" />
       <mapping ext="tex" type="textmate" />
+      <mapping ext="cbx" type="textmate" />
       <mapping ext="cls" type="textmate" />
     </extensionMap>
   </component>
