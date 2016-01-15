@@ -1,9 +1,21 @@
 <scheme name="Base16-Atelier Lakeside-Light" version="142" parent_scheme="Default">
   <option name="LINE_SPACING" value="1.0" />
-  <option name="EDITOR_FONT_SIZE" value="12" />
-  <option name="CONSOLE_FONT_NAME" value="PragmataPro" />
-  <option name="CONSOLE_FONT_SIZE" value="10" />
-  <option name="EDITOR_FONT_NAME" value="PragmataPro" />
+  <font>
+    <option name="EDITOR_FONT_NAME" value="PragmataPro" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
+  </font>
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Courier" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
+  </font>
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="PragmataPro" />
+    <option name="EDITOR_FONT_SIZE" value="10" />
+  </console-font>
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="Courier" />
+    <option name="EDITOR_FONT_SIZE" value="10" />
+  </console-font>
   <colors>
     <option name="ADDED_LINES_COLOR" value="568c3b" />
     <option name="ANNOTATIONS_COLOR" value="516d7b" />
@@ -11,8 +23,8 @@
     <option name="CARET_ROW_COLOR" value="c1e4f6" />
     <option name="CONSOLE_BACKGROUND_KEY" value="ebf8ff" />
     <option name="FILESTATUS_ADDED" value="1f292e" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="1f292e" />
-    <option name="FILESTATUS_MODIFIED" value="1f292e" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="808080" />
+    <option name="FILESTATUS_MODIFIED" value="ff" />
     <option name="FILESTATUS_UNKNOWN" value="1f292e" />
     <option name="GUTTER_BACKGROUND" value="c1e4f6" />
     <option name="INDENT_GUIDE" value="96a0a8" />
@@ -211,7 +223,7 @@
     </option>
     <option name="DEFAULT_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="d22d72" />
+        <option name="FOREGROUND" value="6e2d72" />
       </value>
     </option>
     <option name="DEFAULT_INSTANCE_FIELD">
