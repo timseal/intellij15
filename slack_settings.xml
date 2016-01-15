@@ -1,0 +1,14 @@
+<application>
+  <component name="SlackStorage">
+    <option name="settings">
+      <map>
+        <entry key="slackbot" value="T06JJEJ6A/B0JJN7CLU/BRSeeat9G8GrO35ZghUD7uTr" />
+      </map>
+    </option>
+    <option name="aliases">
+      <map>
+        <entry key="slackbot" value="timand" />
+      </map>
+    </option>
+  </component>
+</application>
