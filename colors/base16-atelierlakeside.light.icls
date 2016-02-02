@@ -554,12 +554,6 @@
         <option name="FOREGROUND" value="5d5db1" />
       </value>
     </option>
-    <option name="REASSIGNED_LOCAL_VARIABLE_ATTRIBUTES">
-      <value />
-    </option>
-    <option name="REASSIGNED_PARAMETER_ATTRIBUTES">
-      <value />
-    </option>
     <option name="SASS_MIXIN">
       <value>
         <option name="FOREGROUND" value="b72dd2" />
@@ -620,9 +614,6 @@
         <option name="FOREGROUND" value="257fad" />
         <option name="FONT_TYPE" value="1" />
       </value>
-    </option>
-    <option name="STATIC_METHOD_ATTRIBUTES">
-      <value />
     </option>
     <option name="Scala Template lazy val/var">
       <value>
